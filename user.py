@@ -5,7 +5,7 @@ class User:
     def get_id(self):
         return self.email
 
-    def is_atcive(self):
+    def is_active(self):
         return True
 
     def is_anonymous(self):
